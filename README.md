@@ -1,6 +1,6 @@
 # Course Project
 
-The objective of the Cours Project is to create one R script called run_analysis.R that does the following. 
+The objective of the Course Project is to create one R script called run_analysis.R that does the following. 
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -14,5 +14,5 @@ This repository contains 4 files with the following information:
 
 1. *run_analysis.R*: The script with the analysis performed.
 2. *Tidy_Data_Set.txt*: The data set with the result from the analysis performed.
-3. *CodeBook.md*: A text file which indicate all the variables and summaries calculated, along with units, and any other relevant information?
+3. *CodeBook.md*: A text file which indicate all the variables and summaries calculated, along with units, and any other relevant information.
 4. *README.md*: The present document explains what the analysis files did.
